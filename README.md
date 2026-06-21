@@ -7,6 +7,8 @@
 
 Hi! My name is Javier Cruz and I am currently finishing my Mathematical Civil Engineering degree at Universidad de Chile. My focus lies at the intersection of mathematics and Data Science, specifically in Machine Learning and Neural Networks. I enjoy diving into Deep Learning architectures to stay at the core of theoretical foundations and practical data challenges.
 
+📄 **[Resume (in Spanish)](./CV.pdf)**
+
 ---
 
 ### 🛠️ Technologies & Tools
